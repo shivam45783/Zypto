@@ -32,6 +32,4 @@ Sign in securely using your Google account for a personalized experience.
 **🌗 Dark/Light Theme:** 
 Switch between dark and light modes for a comfortable viewing experience. Zypto adapts to your system preferences for seamless, eye-friendly use — day or night.
 
-
-
-
+🔗Link: https://drive.google.com/file/d/1_DUMoRIVgH9zB7-GkPx20-g51MoCXaE6/view?usp=sharing
