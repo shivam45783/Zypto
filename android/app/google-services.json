@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "593151144938",
+    "project_id": "zypto-25b1a",
+    "storage_bucket": "zypto-25b1a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593151144938:android:12871d4cc15cb1b04e7893",
+        "android_client_info": {
+          "package_name": "com.example.zypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593151144938-q4e3vs1e9qsdo0n1oigl159plo67qu6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zypto",
+            "certificate_hash": "d4527d1fc87832408dc07afd9366d8760bff2e52"
+          }
+        },
+        {
+          "client_id": "593151144938-edai7437m7unht6oudcmmi394r4pavfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbPfHsm9ikar0PHBuYJny4Fo_ot3kVyEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593151144938-edai7437m7unht6oudcmmi394r4pavfe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593151144938-cb2cqokc1dpq9ko8ji8drunp7d329qm6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zypto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
